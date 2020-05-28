@@ -12,6 +12,7 @@ let resultados = [],
   aparicionesDeResultados = [];
 
 let i = 0;
+
 //Lo que no se es: Un array con los resultados que salieron o dos arrays, uno con los resultados 
 // y otro con la cantidad que aparece cada resultado.
 do {
